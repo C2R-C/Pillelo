@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pillelo</string>
+    <string name="puntaje">Puntaje</string>
+    <string name="intentos">Intentos</string>
+    <string name="ingresa_un_n_mero">Ingresa un número</string>
+    <string name="pillalo">Pillalo</string>
+    <string name="del_1_al_50_pilla_el_correcto">Del 1 al 50, Pilla el correcto</string>
+    <string name="_0">0</string>
+    <string name="juego">Juego</string>
+</resources>
